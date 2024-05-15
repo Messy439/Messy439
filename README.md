@@ -18,3 +18,15 @@
 
 > [!TIP]
 > コードブロックの例
+
+| 名前            | 説明         |
+| --------------- | ------------ |
+| `variable_name` | 変数名       |
+| `Type`          | 変数の型     |
+| `initial_value` | 変数の初期値 |
+
+バッジ例
+```HTML
+<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+```
+<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">

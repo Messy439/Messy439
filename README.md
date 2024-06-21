@@ -4,7 +4,7 @@
 
 <h1 align="center">Messy439's GitHub (WIP)</h1>
 
-[![](https://img.shields.io/badge/-Twitter-#1DA1F2?style=for-the-badge&labelColor=#1B1F24&logo=x&logoColor=white)](https://twitter.com/Messy439)
+[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=1B1F24&logo=x&logoColor=white)](https://twitter.com/Messy439)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Messy439&show_icons=true&locale=en&layout=compact)
 
@@ -38,7 +38,7 @@
 ![](https://skillicons.dev/icons?i=vim,neovim,nix,)<br>
 ![](https://skillicons.dev/icons?i=vscodium,)<br>
 
-![](https://img.shields.io/badge/-MDX-#F7DF1E?style=for-the-badge&labelColor=#1B1F24&logo=mdx&logoColor=white)
-![](https://img.shields.io/badge/-Cocos-#55C2E1?style=for-the-badge&labelColor=#1B1F24&logo=cocos&logoColor=white)
-![](https://img.shields.io/badge/-LLVM-#262D3A?style=for-the-badge&labelColor=#1B1F24&logo=llvm&logoColor=white)
+![](https://img.shields.io/badge/-MDX-F7DF1E?style=for-the-badge&labelColor=1B1F24&logo=mdx&logoColor=white)
+![](https://img.shields.io/badge/-Cocos-55C2E1?style=for-the-badge&labelColor=1B1F24&logo=cocos&logoColor=white)
+![](https://img.shields.io/badge/-LLVM-262D3A?style=for-the-badge&labelColor=1B1F24&logo=llvm&logoColor=white)
 

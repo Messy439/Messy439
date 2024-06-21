@@ -1,32 +1,39 @@
-# Messy439
+<div align="center">
+  <img width="200px" src="https://avatars.githubusercontent.com/u/137411057?v=4">
+</div>
 
-以下 `.md` プレビュー
+<h1 align="center">Messy439's GitHub (WIP)</h1>
 
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+[![](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&labelColor=222222&logo=x&logoColor=white)](https://twitter.com/Messy439)
 
-## `1.` asdfasdfイロハニ
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Messy439&show_icons=true&locale=en&layout=compact)
 
-### `1.1` asdfasdfイロハニ
+## Technology Stack
 
-#### `1.1.1` asdfasdfイロハニ
+![](https://skillicons.dev/icons?i=cpp,c,py,cs,")<br>
+![](https://skillicons.dev/icons?i=bash,regex,md,")<br>
+![](https://skillicons.dev/icons?i=vscode,git,github,visualstudio,")<br>
+![](https://skillicons.dev/icons?i=ubuntu,")<br>
 
-##### `1.1.1.1` hogehogefugafuga
+![](https://skillicons.dev/icons?i=java,rust,")<br>
+![](https://skillicons.dev/icons?i=arduino,raspberrypi,")<br>
+![](https://skillicons.dev/icons?i=gitlab,perl,postgres,")<br>
 
-> [!TIP]
-> コードブロックの例
+## Research in Progress
 
-| 名前            | 説明         |
-| --------------- | ------------ |
-| `variable_name` | 変数名       |
-| `Type`          | 変数の型     |
-| `initial_value` | 変数の初期値 |
+![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,react,tailwind,nextjs,docker,firebase,gcp,githubactions,)<br>
+![](https://skillicons.dev/icons?i=androidstudio,dart,flutter,)<br>
 
-バッジ例
-```HTML
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
-```
-<img src="https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat">
+![](https://skillicons.dev/icons?i=latex,codepen,)<br>
+![](https://skillicons.dev/icons?i=unity,dotnet,)<br>
+![](https://skillicons.dev/icons?i=selenium,)<br>
+
+## I'm now interested in...
+
+![](https://skillicons.dev/icons?i=haskell,zig,)<br>
+![](https://skillicons.dev/icons?i=tensorflow,)<br>
+![](https://skillicons.dev/icons?i=ros,cmake,)<br>
+![](https://skillicons.dev/icons?i=blender,unreal,)<br>
+![](https://skillicons.dev/icons?i=yarn,pnpm,svg,sass,)<br>
+![](https://skillicons.dev/icons?i=vim,neovim,nix,)<br>
+![](https://skillicons.dev/icons?i=vscodium,)<br>

@@ -21,7 +21,9 @@
 
 ## Research in Progress
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,react,tailwind,nextjs,docker,firebase,gcp,githubactions,)<br>
+![](https://skillicons.dev/icons?i=html,css,js,ts,)<br>
+![](https://skillicons.dev/icons?i=nodejs,npm,react,tailwind,nextjs,)<br>
+![](https://skillicons.dev/icons?i=docker,firebase,gcp,githubactions,)<br>
 ![](https://skillicons.dev/icons?i=androidstudio,dart,flutter,)<br>
 
 ![](https://skillicons.dev/icons?i=latex,codepen,)<br>
